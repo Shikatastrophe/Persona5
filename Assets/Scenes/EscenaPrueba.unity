@@ -6055,6 +6055,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 2100000, guid: bc95577b5bd077140a044e0828080e44, type: 2}
     - target: {fileID: -6512845094040943296, guid: 3c3e1155308725d46b5ca171d1c40bdc, type: 3}
+      propertyPath: m_DynamicOccludee
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -6512845094040943296, guid: 3c3e1155308725d46b5ca171d1c40bdc, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: 647dcbb186f899f4a8d2b281aff0bd34, type: 2}
@@ -6134,6 +6138,10 @@ PrefabInstance:
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: efa9973124631714bb34430129103101, type: 2}
+    - target: {fileID: 862575676816835103, guid: 3c3e1155308725d46b5ca171d1c40bdc, type: 3}
+      propertyPath: m_DynamicOccludee
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 3c3e1155308725d46b5ca171d1c40bdc, type: 3}
       propertyPath: m_Name
       value: VelvetRoom
