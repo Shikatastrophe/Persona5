@@ -2,7 +2,7 @@ using UnityEngine;
 
 public class FlipNormals : MonoBehaviour
 {
-    void Awake()
+    void Start()
     {
         SkinnedMeshRenderer skinnedMeshRenderer = GetComponent<SkinnedMeshRenderer>();
         Mesh mesh = skinnedMeshRenderer.sharedMesh;
