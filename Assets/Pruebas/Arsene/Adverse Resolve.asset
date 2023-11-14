@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   level: 7
   type: Passive
-  type2: {fileID: 0}
+  type2: {fileID: 21300000, guid: c558e74231e5b394a8eaf7b064ad91f4, type: 3}
   sname: Adverse Resolve
   eff: Increase critical rate when surrounded.
   cost: '-'

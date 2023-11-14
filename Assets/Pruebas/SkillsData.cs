@@ -13,7 +13,7 @@ public class SkillsData : ScriptableObject
 
     public int Level { get { return level; } }
     public string Type { get { return type; } }
-    public string Type2 { get { return type; } }
+    public Sprite Type2 { get { return type2; } }
     public string Sname { get { return sname; } }
     public string Eff { get { return eff; } }
     public string Cost { get { return cost; } }
