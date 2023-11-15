@@ -10,11 +10,11 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 8a0c4b53b4a518740b523a32a9938033, type: 3}
-  m_Name: 2Life
+  m_Name: 2Lunge
   m_EditorClassIdentifier: 
   level: 0
-  type: Almighty
-  type2: {fileID: 21300000, guid: c426304da6a7c33489e4d8b756ffab05, type: 3}
-  sname: Life Drain
-  eff: Drains HP from 1 foe.
-  cost: 3 SP
+  type: Phys
+  type2: {fileID: 21300000, guid: 3dc54833545e87c4c895859a74adb978, type: 3}
+  sname: Lunge
+  eff: Deal light Phys damage to 1 foe.
+  cost: 5% HP
