@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c9690503e9dbdda4c9d22c1d1a39e18c, type: 3}
+  m_Name: Slime
+  m_EditorClassIdentifier: 
+  pname: Slime
+  pict: {fileID: 21300000, guid: e90878b968152a3428dcf416eb87d478, type: 3}
+  arcana: Chariot
+  lvl: 10
+  stats: 09000000060000000b0000000600000005000000
+  element: 02000000020000000100000000000000000000000100000000000000000000000000000000000000
+  inher: {fileID: 11400000, guid: 619ae9d36fc8c494d96cf492ee8f5de1, type: 2}
+  skills: []

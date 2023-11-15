@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c9690503e9dbdda4c9d22c1d1a39e18c, type: 3}
+  m_Name: Incubus
+  m_EditorClassIdentifier: 
+  pname: Incubus
+  pict: {fileID: 21300000, guid: 3ac6a7ed1e178d241a3cb7e84ced9817, type: 3}
+  arcana: Devil
+  lvl: 5
+  stats: 0400000006000000040000000500000003000000
+  element: 00000000000000000100000000000000020000000000000000000000000000000100000000000000
+  inher: {fileID: 11400000, guid: ffe55dba9344d8147837fa25dccfef3f, type: 2}
+  skills:
+  - {fileID: 11400000, guid: 1efc95f8a8c6b0047a247c65bb33a044, type: 2}
+  - {fileID: 11400000, guid: 4f9725b27a6d25542b96ca34d24ddfd1, type: 2}
+  - {fileID: 11400000, guid: cc05740a0b43e5e47ac7c8f9bf85a5bd, type: 2}
+  - {fileID: 11400000, guid: ff5b014e5cc87be48a30d78c9919a392, type: 2}
+  - {fileID: 11400000, guid: 4f18166becde16442a28880f0e66b7f4, type: 2}
+  - {fileID: 11400000, guid: ea8caee90b31717488f43bb13266d790, type: 2}

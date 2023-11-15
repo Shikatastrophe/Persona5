@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c9690503e9dbdda4c9d22c1d1a39e18c, type: 3}
+  m_Name: Bicorn
+  m_EditorClassIdentifier: 
+  pname: Bicorn
+  pict: {fileID: 21300000, guid: d904bd302bc71314da4d5fe662e8628f, type: 3}
+  arcana: Hermit
+  lvl: 4
+  stats: 0500000003000000030000000500000003000000
+  element: 00000000000000000000000000000000010000000000000000000000000000000000000002000000
+  inher: {fileID: 11400000, guid: abf249329cc1ebd44be37ee757ab0659, type: 2}
+  skills:
+  - {fileID: 11400000, guid: cc9705e7a8aa51748beb294a7a1c5829, type: 2}
+  - {fileID: 11400000, guid: 7732b72ec4e7a46489b622e5bce24b90, type: 2}
+  - {fileID: 11400000, guid: 1935bd53e554a2d4c9228fcf624efdc9, type: 2}
+  - {fileID: 11400000, guid: f73597167ab946b469ca8d0254473b05, type: 2}
+  - {fileID: 11400000, guid: 0fe10c8141e6641448fbaefd33fe445a, type: 2}
+  - {fileID: 11400000, guid: ee0966c645a46d9488d69b9314e96f39, type: 2}

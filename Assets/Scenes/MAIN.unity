@@ -8154,7 +8154,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4d088d2044938de4294b297e79732098, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Persona: {fileID: 11400000, guid: 20ea33535c87f6b4c8e10ad3e8072eb8, type: 2}
+  Persona: {fileID: 11400000, guid: 031c673647e4a9243b34e63b1554a2ca, type: 2}
   personaName: {fileID: 166259446}
   personaImg: {fileID: 1813280958}
   personaArcana: {fileID: 1203615830}

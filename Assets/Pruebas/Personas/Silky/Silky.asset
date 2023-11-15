@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c9690503e9dbdda4c9d22c1d1a39e18c, type: 3}
+  m_Name: Silky
+  m_EditorClassIdentifier: 
+  pname: Silky
+  pict: {fileID: 21300000, guid: e6e0443d16f2dd249a1eeef89ed09cfb, type: 3}
+  arcana: Priestess
+  lvl: 6
+  stats: 0400000007000000040000000500000005000000
+  element: 00000000000000000100000002000000010000000000000000000000000000000000000000000000
+  inher: {fileID: 11400000, guid: 23fd513a6ec335946a394cdd249205ce, type: 2}
+  skills: []

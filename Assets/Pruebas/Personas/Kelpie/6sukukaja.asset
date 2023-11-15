@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8a0c4b53b4a518740b523a32a9938033, type: 3}
+  m_Name: 6sukukaja
+  m_EditorClassIdentifier: 
+  level: 9
+  type: Support
+  type2: {fileID: 21300000, guid: 6c7308885e779f74aa70d4197ab9ead0, type: 3}
+  sname: Sukuaja
+  eff: Increase 1 ally's Agility for 3 turns.
+  cost: 8 SP
