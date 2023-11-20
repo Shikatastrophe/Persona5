@@ -34,7 +34,7 @@ public class DataManager : MonoBehaviour
         }
         */
         //Debug.Log(Persona.Skills[0].Eff);
-        personaStats();
+        //personaStats();
     }
 
     // Update is called once per frame
