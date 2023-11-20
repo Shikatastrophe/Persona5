@@ -57,10 +57,10 @@ public class DataManager : MonoBehaviour
                     elName[i].text = "";
                     break;
                 case 1:
-                    elName[i].text = "wk";
+                    elName[i].text = "WK";
                     break;
                 case 2:
-                    elName[i].text = "str";
+                    elName[i].text = "STR";
                     break;
             }
 
